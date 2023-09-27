@@ -1,4 +1,6 @@
 # webscraping-#
+
+#The outputs were shared with Excel.#
 #The process is to properly create a dataframe by pulling the prices and features of all houses in Istanbul on the Emlakjet website.#
 from selenium import webdriver
 from selenium.webdriver.common.by import By
